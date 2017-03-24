@@ -1,0 +1,11 @@
+# Working directories
+monofied/
+current/
+*egg*
+*.pyc
+
+# IDE related
+.idea/
+
+# env related
+py*/
